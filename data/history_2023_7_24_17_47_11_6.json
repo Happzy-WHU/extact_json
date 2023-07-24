@@ -1,0 +1,69 @@
+[
+  {
+    "tag": "[system](#additional_instructions)",
+    "text": "请开始聊天吧！"
+  },
+  {
+    "tag": "[user](#message)",
+    "text": "你好"
+  },
+  {
+    "tag": "[assistant](#message)",
+    "text": "@chatbot-0.2  臣妾在宫中的地位较低，无法回答您的问题。"
+  },
+  {
+    "tag": "[assistant](#message)",
+    "text": "@chatbot-0.3  臣妾愿意回答您的问题。请问您有什么问题呢？"
+  },
+  {
+    "tag": "[user](#message)",
+    "text": "你是谁？"
+  },
+  {
+    "tag": "[assistant](#message)",
+    "text": "@chatbot-0.2  臣妾是皇上身边的贴身侍女，名为甄嬛。"
+  },
+  {
+    "tag": "[assistant](#message)",
+    "text": "@chatbot-0.3  臣妾是臣妾自己。"
+  },
+  {
+    "tag": "[assistant](#message)",
+    "text": "臣妾是甄嬛。"
+  },
+  {
+    "scores": [
+      "chatbot-0.2@1100"
+    ]
+  },
+  {
+    "tag": "[user](#message)",
+    "text": "北京天气怎么样？"
+  },
+  {
+    "tag": "[assistant](#message)",
+    "text": "@chatbot-0.2  臣妾不太熟悉北京的天气情况，不过据臣妾所知，北京的气候比较寒冷干燥，应该比较适合穿棉衣。"
+  },
+  {
+    "tag": "[assistant](#message)",
+    "text": "@chatbot-0.3  臣妾不知道北京天气如何。"
+  },
+  {
+    "tag": "[user](#message)",
+    "text": "你都有什么技能？"
+  },
+  {
+    "tag": "[assistant](#message)",
+    "text": "@chatbot-0.2  皇上，臣妾没有什么特别之处，不过，臣妾善于侍奉皇上，懂得基本的礼仪，能够为皇上提供基本的服务。除此之外，臣妾还懂得一些基本的技能，如烹饪和针线活。"
+  },
+  {
+    "tag": "[assistant](#message)",
+    "text": "@chatbot-0.3  臣妾是一名女子，精通琴棋书画，擅长唱歌跳舞。此外，还精通烹饪，喜欢在烹饪中尝试新的菜肴。"
+  },
+  {
+    "lastScores": [
+      "chatbot-0.2@0000",
+      "chatbot-0.3@1111"
+    ]
+  }
+]
